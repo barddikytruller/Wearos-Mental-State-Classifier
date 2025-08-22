@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WearData</string>
+    <string name="ConnectedToHs">Conectado ao Health Service</string>
+    <string name="NoSpo2Support">Dispositivo não suporta rastreamento de SpO2</string>
+    <string name="NoHrSupport">Dispositivo não suporta rastreamento de Frequência Cardíaca</string>
+    <string name="NoPermission">Permissão não concedida</string>
+    <string name="SdkPolicyError">Erro de política do SDK</string>
+    <string name="MeasurementFailed">Medição falhou</string>
+    <string name="SpO2DefaultValue">--</string>
+    <string name="StatusCalculating">Calculando...</string>
+    <string name="StatusDeviceMoving">Dispositivo em movimento</string>
+    <string name="StatusLowSignal">Sinal baixo</string>
+    <string name="StatusCompleted">Completo</string>
+    <string name="StartLabel">Iniciar</string>
+    <string name="StopLabel">Parar</string>
+    <string name="HeartRateDefaultValue">--</string>
+    <string name="IbiDefaultValue">--</string>
+    <string name="IbiStatusDefaultValue">--</string>
+    <string name="DetailsStatusNone">Nenhum</string>
+    <string name="DetailsStatusFindHr">Encontrando FC</string>
+    <string name="DetailsStatusAttached">Anexado</string>
+    <string name="DetailsStatusMoveDetection">Movimento detectado</string>
+    <string name="DetailsStatusDetached">Desanexado</string>
+    <string name="DetailsStatusLowReliability">Baixa confiabilidade</string>
+    <string name="DetailsStatusVeryLowReliability">Muito baixa confiabilidade</string>
+    <string name="DetailsStatusNoDataFlush">Nenhum dado</string>
+    <string name="ConnectionError">Erro de conexão</string>
+    <string name="HealthPlatformVersionIsOutdated">Versão da plataforma de saúde desatualizada</string>
+    <string name="PermissionDeniedPermanently">Permissão negada permanentemente. Vá para as configurações para conceder.</string>
+    <string name="PermissionDeniedRationale">Permissão negada. Por favor, conceda a permissão para usar o aplicativo.</string>
+    <string name="ExtraHr">extra_hr</string>
+    <string name="ExtraHrStatus">extra_hr_status</string>
+    <string name="ExtraIbi">extra_ibi</string>
+    <string name="ExtraQualityIbi">extra_quality_ibi</string>
+    <string name="EdaError">Erro ao medir EDA</string>
+    <string name="BiaNotAvailable">Sensor BIA/EDA indisponível</string>
+    <string name="HrError">Erro na leitura de FC</string>
+</resources>

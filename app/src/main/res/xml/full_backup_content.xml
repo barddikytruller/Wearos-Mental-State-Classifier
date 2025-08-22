@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!--
+    This file is used by Android's Auto Backup feature.
+    It defines which files are included in or excluded from backups.
+    By default, it includes all app data.
+    You can customize it to exclude sensitive data or large files.
+    For more information, see: https://developer.android.com/guide/topics/data/autobackup
+    -->
+    <include domain="file" path="."/>
+    <exclude domain="sharedpref" path="my_preferences.xml"/>
+    <!-- Add other include/exclude rules here if needed -->
+</full-backup-content>
